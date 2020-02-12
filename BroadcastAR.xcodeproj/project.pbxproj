@@ -14,7 +14,7 @@
 		F218975E23F41A7D003C0E28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F218975C23F41A7D003C0E28 /* LaunchScreen.storyboard */; };
 		F218976923F41A7D003C0E28 /* BroadcastARTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F218976823F41A7D003C0E28 /* BroadcastARTests.swift */; };
 		F218977423F41A7D003C0E28 /* BroadcastARUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F218977323F41A7D003C0E28 /* BroadcastARUITests.swift */; };
-		F218978223F4402D003C0E28 /* broadcastTest.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = F218978123F4402D003C0E28 /* broadcastTest.rcproject */; };
+		F251C98623F45ADA004DF2F3 /* broadcastTest.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = F251C98523F45AD9004DF2F3 /* broadcastTest.rcproject */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +48,7 @@
 		F218976F23F41A7D003C0E28 /* BroadcastARUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BroadcastARUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F218977323F41A7D003C0E28 /* BroadcastARUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BroadcastARUITests.swift; sourceTree = "<group>"; };
 		F218977523F41A7D003C0E28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F218978123F4402D003C0E28 /* broadcastTest.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; name = broadcastTest.rcproject; path = ../../../Desktop/broadcastTest.rcproject; sourceTree = "<group>"; };
+		F251C98523F45AD9004DF2F3 /* broadcastTest.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = broadcastTest.rcproject; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +101,7 @@
 			children = (
 				F218975123F41A7B003C0E28 /* AppDelegate.swift */,
 				F218975323F41A7B003C0E28 /* ViewController.swift */,
-				F218978123F4402D003C0E28 /* broadcastTest.rcproject */,
+				F251C98523F45AD9004DF2F3 /* broadcastTest.rcproject */,
 				F218975723F41A7B003C0E28 /* Main.storyboard */,
 				F218975A23F41A7D003C0E28 /* Assets.xcassets */,
 				F218975C23F41A7D003C0E28 /* LaunchScreen.storyboard */,
@@ -259,9 +259,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F218978223F4402D003C0E28 /* broadcastTest.rcproject in Sources */,
 				F218975423F41A7B003C0E28 /* ViewController.swift in Sources */,
 				F218975223F41A7B003C0E28 /* AppDelegate.swift in Sources */,
+				F251C98623F45ADA004DF2F3 /* broadcastTest.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
